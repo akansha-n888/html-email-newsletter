@@ -8,7 +8,7 @@
 * [Contact](#contact)
 
 ## General info
-The purpose of this project is to develop a HTML newsletter to send out to participants for engineering based events.
+The purpose of this project is to develop HTML newsletters to send out to participants for engineering based events.
 
 ## Technologies
 * HTML5
