@@ -14,6 +14,9 @@ The purpose of this project is to develop HTML newsletters to send out to partic
 * HTML5
 * Visual Studio Code IDE
 
+## Newsletter
+![Schematic](Images/letter.PNG)
+
 ## Status
 Project is: _finished_
 
